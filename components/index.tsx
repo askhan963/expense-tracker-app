@@ -7,7 +7,7 @@ import ImageUpload from "./ImageUpload";
 import Input from "./Input";
 import Loading from "./Loading";
 import ModelWrapper from "./ModelWrapper";
-import ScreenWrapper from "./ScreenWrapper";
+import ScreenWrapper from "./screenWrapper";
 import TransactionList from "./TransactionList";
 import Typo from "./Typo";
 import WalletListItem from "./WalletListItem";
