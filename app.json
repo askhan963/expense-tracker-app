@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.smrutid95.expensetracker"
+      "package": "com.askhan963.expensetracker"
     },
     "web": {
       "bundler": "metro",
